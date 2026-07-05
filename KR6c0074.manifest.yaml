@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0074_000.yaml, hash: 'sha256:94f506b0f34ae8116e912caad2ab1c3d178c08327dd960628c2952a44b1b16e3'}
-  - {seq: 1, filename: KR6c0074_001.yaml, hash: 'sha256:8d0e1b141816399312269debc1322941c8e5b173dc1a5f04d42fdd4d1e09b700'}
+  - {seq: 0, filename: KR6c0074_000.yaml, hash: 'sha256:47f103b589c2467ab0b563f9f7c3032be043187760bca29b2ef29445f4b72be0'}
+  - {seq: 1, filename: KR6c0074_001.yaml, hash: 'sha256:1066a04508f8d82afc78a5dc539d92d0a8db3c366092fea926689416d446a8a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0074_000.markers.yaml, hash: 'sha256:c949b0fd50a1a425470f88f6799ba4f80b0826b9d90358082f8a18b7295baec5'}
-  - {seq: 1, role: markers, filename: assets/KR6c0074_001.markers.yaml, hash: 'sha256:bed1d27807aa84f7ff3404405045f0bbe698360b42d7d9eac34e7605c6e7d5c9'}
+  - {seq: 0, role: markers, filename: assets/KR6c0074_000.markers.yaml, hash: 'sha256:feca9a013ff42dccd50df817f437aa9a07579fa5cbd51d301398eaedf0a29e76'}
+  - {seq: 1, role: markers, filename: assets/KR6c0074_001.markers.yaml, hash: 'sha256:1698610ccfde2aae8d7aca9901e7032f5d3c7151cc5a9cef4d8acaa90a955e6d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -377,7 +377,4 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:ab7b0456260bec343e9e203cb9cc88ae206d7746001a57324fdfad5bc74c4638
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cb5db39b950d3aa4ed9426846a74a0e4256c005a7f99695ad156ed5c91a1de55
