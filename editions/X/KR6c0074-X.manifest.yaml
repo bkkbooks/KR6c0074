@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0074_000-X.yaml, hash: 'sha256:47f103b589c2467ab0b563f9f7c3032be043187760bca29b2ef29445f4b72be0'}
+  - {seq: 0, filename: KR6c0074_000-X.yaml, hash: 'sha256:4479c44cd56b61651a40550cf27a3efeccdb605bc92e277ef11739dde0d4398f'}
   - {seq: 1, filename: KR6c0074_001-X.yaml, hash: 'sha256:1066a04508f8d82afc78a5dc539d92d0a8db3c366092fea926689416d446a8a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0074_000-X.markers.yaml, hash: 'sha256:af8b5b04b38f8bf5070fad14327857143a5b9eac88182bf2c29ab2d0d6f87928'}
+  - {seq: 0, role: markers, filename: assets/KR6c0074_000-X.markers.yaml, hash: 'sha256:cc15c46bb8ce4afe9d8e502f429cbb339de8466efc05e376c89499d872f367fb'}
   - {seq: 1, role: markers, filename: assets/KR6c0074_001-X.markers.yaml, hash: 'sha256:9086c4291dba6b370caf98dad056b24be8d346054fffb7d98f5f019a0350b6fb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0074_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 486-A 金剛經會解了義自敘
@@ -375,4 +375,4 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:d55c043ad352bac1a10c8f6b3aefe4c1d91f8c19db3daa9014bea3cb61e74701
+hash: sha256:47dcf18691f4562f3d2e73055b63e9c997e96ec59a390e056072ee24e102eed0

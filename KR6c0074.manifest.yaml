@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0074_000.yaml, hash: 'sha256:578757a1c8a870ab69a0c7fc671060451cc7b3541deb79678ee256c320b76688'}
+  - {seq: 0, filename: KR6c0074_000.yaml, hash: 'sha256:5c5bf85ea23cbada0c969432817ecbad65308b82a70f47fea7218e98db370300'}
   - {seq: 1, filename: KR6c0074_001.yaml, hash: 'sha256:803b1c57f0170a3d15ccbb4d74d7c5f74a7207c8c443898127c013272201436f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0074_000.markers.yaml, hash: 'sha256:590acd7c3cabbffbecb69d48194ee10866d1b4bc894b4dccc5709d32d1c05e7a'}
+  - {seq: 0, role: markers, filename: assets/KR6c0074_000.markers.yaml, hash: 'sha256:ce44bac7a34c3f291dcae6178785dddafa5ab4cd6600194e37474941c0aaa680'}
   - {seq: 1, role: markers, filename: assets/KR6c0074_001.markers.yaml, hash: 'sha256:7c1b69d382764be53b81f1668f3d3f1f6323dd6558eae4e69c9995f7e9d58879'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0074_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 486-A 金剛經會解了義自敘
@@ -377,7 +377,7 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:3b6b816e2a6103f1d458e0cfb916a379b42020f194976c2ebb120752f14cc704
+hash: sha256:91d3a1212c1671ac6d97a6b2b5fcd543befe7cf16c699fd2f5b45fabb3fb7e4d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
